@@ -1,0 +1,179 @@
+﻿[Skip to content](#main)
+
+[MMadhan M](#home)
+
+[Home](#home) [About](#about) [Skills](#skills) [Projects](#projects) [Education](#education) [Resume](#resume) [Contact](#contact)
+
+HELLO, I'M
+
+# Madhan M
+
+Python Developer | Data Analytics | Automation
+
+I build practical solutions through programming, data analysis, and workflow automation. Explore my technical skills, projects, and journey in technology.
+
+[Explore My Projects](#projects) [Download Resume](#resume) [Contact Me](#contact)
+
+- [GitHub add link](#contact)
+- [LinkedIn add link](#contact)
+
+Portrait of Madhan M seated in a navy blazer and jeans against a dark studio background
+
+madhan.py
+
+```
+class Madhan:
+    focus = ["Python", "SQL",
+             "Analytics", "UiPath"]
+    def goal(self):
+        return "practical solutions"
+```
+
+Introduction
+
+## About Me
+
+I have completed my Bachelor of Science in Computer Science with a specialization in Artificial Intelligence and Data Science. Along the way I learned Python, SQL, Excel, Java, HTML, web designing, and data analytics.
+
+I am interested in software development, workflow automation, data analysis, and building practical technology solutions. I have developed automation projects using UiPath, including recording and email automation workflows.
+
+My goal is to apply my technical knowledge to real-world problems, keep learning new technologies, and contribute to meaningful projects.
+
+### Key interests
+
+- Python programming
+- Data analysis and reporting
+- Database management with SQL
+- Workflow and email automation
+- Web design and development
+- Artificial Intelligence and Data Science
+
+### Education
+
+B.Sc. Computer Science — AI & Data Science
+
+### Technical Focus
+
+Programming, Analytics, and Automation
+
+### Career Goal
+
+Building practical, technology-driven solutions
+
+What I work with
+
+## Technical Skills
+
+Completed work
+
+## My Projects
+
+No completed projects in this category yet. See the upcoming projects below.
+
+In the pipeline
+
+### Future Projects
+
+Placeholders for work I have not built yet. None of these are completed projects.
+
+No upcoming projects in this category.
+
+Background
+
+## Education
+
+1. ### Bachelor of Science in Computer Science
+
+   Specialization: Artificial Intelligence and Data Science
+
+   Institution
+
+   \[Add College Name\]
+
+   Graduation year
+
+   \[Add Graduation Year\]
+
+   Academic achievements
+
+   \[Add achievements\]
+
+   Relevant coursework
+
+   \[Add coursework\]
+
+At a glance
+
+## Resume
+
+### Madhan M
+
+Python Developer | Data Analytics Enthusiast | Automation Developer
+
+[Download Resume](#resume)
+
+Resume PDF coming soon.
+
+#### Professional summary
+
+B.Sc. Computer Science graduate (AI & Data Science) with knowledge of Python, SQL, Excel, Java and HTML. Interested in software development, workflow automation and data analysis, with UiPath automation projects completed.
+
+#### Technical skills
+
+Python, Java, SQL, Microsoft Excel, Data Analytics, HTML, Web Designing, UiPath, Recording Automation, Email Automation.
+
+#### Education
+
+B.Sc. Computer Science (Artificial Intelligence and Data Science)\
+\[Add College Name\], \[Add Graduation Year\]
+
+#### Project highlights
+
+- Recording Automation (UiPath, RPA)
+- Email Automation (UiPath, RPA)
+
+#### Contact
+
+[madhanmpmd4@gmail.com](mailto:madhanmpmd4@gmail.com)\
++91 8220697227
+
+Get in touch
+
+## Let's Connect
+
+Have an opportunity, project idea, or collaboration in mind? Feel free to contact me.
+
+- Phone +91 8220697227
+- Email [madhanmpmd4@gmail.com](mailto:madhanmpmd4@gmail.com)
+
+Full Name
+
+Email Address
+
+Subject
+
+Message
+
+Madhan M | Personal Portfolio
+
+Designed to showcase my journey in programming, data analytics, and automation.
+
+[Home](#home)[About](#about)[Skills](#skills)[Projects](#projects)[Education](#education)[Contact](#contact)
+
+- [GitHub add link](#contact)
+- [LinkedIn add link](#contact)
+
+© 2026 Madhan M. All rights reserved.
+
+
+
+
+def power(base,exp): 
+    if exp==1: 
+        return(base) 
+    if exp!=1: 
+        return(base*power(base,exp-1)) 
+base=int(input("Enter base: ")) 
+exp=int(input("Enter exponential value: ")) 
+print("Result:",power(base,exp))
+
